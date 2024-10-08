@@ -16,4 +16,4 @@ function randomColor() {
 }
 
 
-randomColor();
+  randomColor();
